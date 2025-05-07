@@ -47,7 +47,7 @@ Project Pantheon is a modular, agent-based trading system designed to simulate a
 pip install pandas numpy
 ```
 
-2. Place your cleaned AAPL data in `CSV/aapl_clean.csv`.
+2. Place your cleaned data in the CSV folder.
 
 3. Run the main script:
 
@@ -76,19 +76,19 @@ Total Trades: 10 (Buys: 5, Sells: 5)
 
 ## Key Concepts
 
-* **Modular Design**: Each agent performs one job and passes its result to the next.
+* **Pipeline Design**: Each agent performs one job and passes its result to the next.
 * **Confidence Scoring**: Volatility is inversely correlated with confidence.
 * **Backtesting**: Simulation occurs using historical data for objective performance review.
-* **Technical Analysis**: Simple yet powerful indicators help identify market momentum and reversal.
+* **Technical Analysis**: Simple indicators help identify market momentum and reversals.
 
 ---
 
-## Future Extensions
+## Future Improvements
 
 * Real-time trading via APIs
-* Strategy optimization using genetic algorithms
+* Strategy optimization using neural networks
 * Performance visualization dashboard
-* More advanced risk controls (e.g., stop loss, drawdown limits)
+* Dynamic coding
 
 ---
 
