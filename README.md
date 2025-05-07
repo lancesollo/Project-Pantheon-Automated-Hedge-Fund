@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project Pantheon is a modular, agent-based trading system designed to simulate algorithmic trading with a human-readable and explainable structure. It connects multiple agents to form a pipeline:
+Project Pantheon is an automated, agent-based trading system designed to simulate algorithmic trading with a hedge fund structure. It connects multiple agents to form a pipeline:
 
 1. **Technical Agent**: Generates BUY, SELL, or HOLD signals using EMA, RSI, and MACD indicators.
 2. **Risk Manager**: Assesses volatility and assigns confidence to signals. Filters out risky trades.
