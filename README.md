@@ -86,7 +86,9 @@ Total Trades: 46 (Buys: 15, Sells: 31)
 ## Future Improvements
 
 * Real-time trading via APIs
-* Strategy optimization using neural networks
+* Strategy optimization using machine learning
+* Implement more agents
+* Multi-asset application
 * Performance visualization dashboard
 * Dynamic coding
 
