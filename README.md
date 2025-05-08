@@ -7,7 +7,7 @@ Project Pantheon is an automated, agent-based trading system designed to simulat
 1. **Technical Agent**: Generates BUY, SELL, or HOLD signals using EMA, RSI, and MACD indicators.
 2. **Risk Manager**: Assesses volatility and assigns confidence to signals. Filters out risky trades.
 3. **Portfolio Manager**: Executes trades and maintains account balance and positions.
-4. **main.py**: Orchestrates the pipeline, performs backtesting, logs trades, and reports final performance.
+4. **main.py**: Directs the pipeline, performs backtesting, logs trades, and reports final performance.
 
 ---
 
