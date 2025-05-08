@@ -67,9 +67,9 @@ Starting trading simulation...
 ...
 Performance Summary:
 Initial Value: $10000.00
-Final Value: $10250.50
-Total Return: 2.51%
-Total Trades: 10 (Buys: 5, Sells: 5)
+Final Value: $10168.91
+Total Return: 1.69%
+Total Trades: 46 (Buys: 15, Sells: 31)
 ```
 
 ---
